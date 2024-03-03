@@ -15,10 +15,10 @@ Movies listings App using OMDb API and a provided CSS. The purpose of this proje
 
 ## Installation
 
-git clone https://github.com/JVictor-Silva93/react_movies_project.git
-cd react_movies_project
-npm install
-npm start
+- git clone https://github.com/JVictor-Silva93/react_movies_project.git
+- cd react_movies_project
+- npm install
+- npm start
 
 ### `npm start`
 
